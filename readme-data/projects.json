@@ -1,24 +1,37 @@
-﻿[
+[
   {
     "id": "hime-os",
     "title": "HiMe OS",
-    "description": "An AI-powered intelligent operating system built with modern web technologies. Features a smart assistant, adaptive UI, productivity suite, and deep AI integrations â€” reimagining the desktop experience from the ground up.",
+    "description": "An AI-powered intelligent operating system built with modern web technologies. Features an adaptive assistant, productivity suite, and deep AI integrations — reimagining the desktop experience.",
     "status": "active",
     "featured": true,
-    "technologies": ["React", "TypeScript", "Node.js", "OpenAI", "Gemini", "Electron", "Tailwind CSS"],
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "OpenAI",
+      "Electron",
+      "Tailwind CSS"
+    ],
     "repo_url": "https://github.com/Ayu5h576/hime-os",
     "demo_url": "https://himeos.dev",
-    "image": "https://raw.githubusercontent.com/Ayu5h576/Ayu5h576/main/assets/hime-os-preview.png",
+    "image": "https://raw.githubusercontent.com/Ayu5h576/Ayu5h576/master/assets/hime-os-preview.png",
     "stars": null,
     "category": "flagship"
   },
   {
     "id": "ai-productivity-suite",
     "title": "AI Productivity Suite",
-    "description": "A collection of AI-powered productivity tools including smart summarization, code review assistant, and meeting transcription â€” built with modern APIs and a clean, responsive UI.",
+    "description": "A collection of AI-powered tools including smart summarization, code review assistant, and transcription — built with modern APIs and a clean UI.",
     "status": "active",
     "featured": true,
-    "technologies": ["Next.js", "TypeScript", "OpenAI", "Firebase", "Tailwind CSS"],
+    "technologies": [
+      "Next.js",
+      "TypeScript",
+      "OpenAI",
+      "Firebase",
+      "Tailwind CSS"
+    ],
     "repo_url": "https://github.com/Ayu5h576/ai-productivity-suite",
     "demo_url": null,
     "image": null,
@@ -26,12 +39,18 @@
     "category": "ai"
   },
   {
-    "id": "design-system",
+    "id": "hime-design-system",
     "title": "HiMe Design System",
-    "description": "A comprehensive, accessible design system and component library powering HiMe OS and related products. Built with React, Storybook, and Figma design tokens for perfect designer-developer sync.",
+    "description": "Comprehensive design system and accessible component library powering HiMe OS. Built with Storybook and Figma tokens for seamless sync.",
     "status": "active",
     "featured": true,
-    "technologies": ["React", "TypeScript", "Storybook", "Figma", "CSS Variables"],
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Storybook",
+      "Figma",
+      "CSS Variables"
+    ],
     "repo_url": "https://github.com/Ayu5h576/hime-design-system",
     "demo_url": null,
     "image": null,
@@ -39,4 +58,3 @@
     "category": "design"
   }
 ]
-

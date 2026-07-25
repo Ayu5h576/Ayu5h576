@@ -1,32 +1,42 @@
 [
-  { "category": "Clean Code", "tip": "Name your variables for what they represent, not what they hold. `userAge` beats `data` every time." },
-  { "category": "Git", "tip": "Commit often with meaningful messages. `git commit -m 'fix'` is a crime. Describe the *why*, not just the *what*." },
-  { "category": "TypeScript", "tip": "Avoid `any`. Use `unknown` instead and narrow the type explicitly — your future self will thank you." },
-  { "category": "Performance", "tip": "Don't optimize prematurely. Profile first, then optimize the actual bottleneck — not what you *think* is slow." },
-  { "category": "React", "tip": "Keep components small and focused. If a component does more than one thing, it should probably be two components." },
-  { "category": "API Design", "tip": "Design your API endpoints around resources and actions, not implementation details. REST is a mindset, not just a convention." },
-  { "category": "Security", "tip": "Never store secrets in your code or `.env` files committed to git. Use a secrets manager or environment injection at runtime." },
-  { "category": "CSS", "tip": "Use CSS custom properties (variables) for your design tokens. Consistent spacing and color is the hallmark of a polished UI." },
-  { "category": "Debugging", "tip": "When stuck on a bug, explain it to someone — or a rubber duck. Articulating the problem often reveals the solution." },
-  { "category": "System Design", "tip": "Design for failure. Assume any external service will go down. Build retries, circuit breakers, and graceful degradation from day one." },
-  { "category": "AI Engineering", "tip": "When prompting LLMs, be specific about the output format. JSON output with a schema example is more reliable than freeform text." },
-  { "category": "Testing", "tip": "Test behavior, not implementation. Tests that break on every refactor aren't protecting you — they're slowing you down." },
-  { "category": "Productivity", "tip": "The Pomodoro technique works. 25 minutes of deep focus, 5-minute break, repeat. Your brain is not a computer — it needs rest cycles." },
-  { "category": "Open Source", "tip": "Read the source. When documentation is unclear, the code is the ground truth. Don't be afraid to dive in." },
-  { "category": "Database", "tip": "Always index columns you `WHERE`, `JOIN`, or `ORDER BY`. Unindexed queries on large tables will kill your app's performance." },
-  { "category": "Node.js", "tip": "Never block the event loop. Move heavy computation to worker threads or background queues — keep your API responsive." },
-  { "category": "React", "tip": "Lift state only as high as it needs to go. Global state managers are powerful tools; don't reach for them when local state works." },
-  { "category": "DevOps", "tip": "Automate your deployment pipeline from day one. Manual deployments are where bugs hide and confidence dies." },
-  { "category": "Code Review", "tip": "Code reviews are for knowledge sharing, not gatekeeping. Ask questions, suggest improvements, and always assume good intent." },
-  { "category": "Architecture", "tip": "Separate your concerns. A function that fetches data, transforms it, AND renders UI is three functions pretending to be one." },
-  { "category": "AI Engineering", "tip": "Chain-of-thought prompting dramatically improves LLM reasoning on complex tasks. Ask the model to 'think step by step'." },
-  { "category": "CSS", "tip": "Master `flexbox` and `CSS grid`. They replace 90% of layout hacks. If you're fighting CSS, you're probably not using these enough." },
-  { "category": "JavaScript", "tip": "Use `const` by default, `let` when you need to reassign. Avoid `var` entirely — its function scope causes subtle, hard-to-find bugs." },
-  { "category": "UX Design", "tip": "The best UX is invisible. If users notice your UI, it means something confused them. Clarity > cleverness." },
-  { "category": "Async", "tip": "Prefer `async/await` over raw `.then()` chains. It reads like synchronous code and makes error handling with `try/catch` natural." },
-  { "category": "Documentation", "tip": "Write docs as if your future self needs to understand this code in 6 months at 2am before a production incident. Be kind." },
-  { "category": "Refactoring", "tip": "The boy scout rule: always leave the code cleaner than you found it. Small, consistent improvements compound over time." },
-  { "category": "Caching", "tip": "Cache at the right layer: browser, CDN, server, or database. Cache invalidation is hard — only cache what you control." },
-  { "category": "Error Handling", "tip": "Never swallow errors silently. Log them, alert on them, and handle them gracefully. Silent failures are the hardest bugs to find." },
-  { "category": "Firebase", "tip": "Use Firestore security rules as your first line of defense. Never trust the client — validate everything server-side or with rules." }
+  {
+    "category": "Clean Code",
+    "tip": "Name your variables for what they represent, not what they hold. userAge beats data every time."
+  },
+  {
+    "category": "Git",
+    "tip": "Commit often with meaningful messages. Describe the why, not just the what."
+  },
+  {
+    "category": "TypeScript",
+    "tip": "Avoid any. Use unknown instead and narrow the type explicitly — your future self will thank you."
+  },
+  {
+    "category": "Performance",
+    "tip": "Don't optimize prematurely. Profile first, then optimize the actual bottleneck."
+  },
+  {
+    "category": "React",
+    "tip": "Keep components small and focused. If a component does more than one thing, split it."
+  },
+  {
+    "category": "API Design",
+    "tip": "Design your API endpoints around resources and actions, not implementation details."
+  },
+  {
+    "category": "Security",
+    "tip": "Never store secrets in code. Use environment variables and secrets managers at runtime."
+  },
+  {
+    "category": "CSS",
+    "tip": "Use CSS custom properties for design tokens to maintain visual consistency."
+  },
+  {
+    "category": "AI Engineering",
+    "tip": "When prompting LLMs, specify output schemas explicitly for consistent JSON parsing."
+  },
+  {
+    "category": "System Design",
+    "tip": "Design for failure. Assume external services will fail and implement graceful degradation."
+  }
 ]
