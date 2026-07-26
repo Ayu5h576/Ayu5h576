@@ -462,7 +462,7 @@ const ayush: Developer = {
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Ayu5h576&theme=tokyonight&hide_border=true&background=0d1117&stroke=0070f3&ring=00aaff&fire=00f2fe&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00aaff&border_radius=10" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Ayu5h576&theme=tokyonight&hide_border=true&background=0d1117&stroke=0070f3&ring=00aaff&fire=00f2fe&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00aaff&border_radius=10&user_timezone=Asia/Kolkata" alt="GitHub Streak" />
 
 </div>
 
