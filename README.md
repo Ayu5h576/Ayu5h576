@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- HERO HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,50:0a0f1e,100:0070f3&height=180&section=header&text=Ayush%20Rawat&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=16&descColor=a0b8d8&animation=fadeIn" alt="Ayush Rawat Header" width="100%" />
@@ -6,7 +6,7 @@
 <br/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00AAFF&center=true&vCenter=true&width=650&height=50&lines=Building+HiMe+OS+%E2%80%94+AI-powered+intelligent+OS;Full+Stack+%7C+AI+Engineering+%7C+UI%2FUX+Design;Open+Source+Builder+%26+AI+Startup+Founder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00AAFF&center=true&vCenter=true&width=650&height=50&lines=Building+HiMe+OS+-+AI-powered+intelligent+OS;Full+Stack+%7C+AI+Engineering+%7C+UI%2FUX+Design;Open+Source+Builder+%26+AI+Startup+Founder)](https://git.io/typing-svg)
 
 <br/>
 
@@ -29,7 +29,7 @@
 const ayush: Developer = {
   name: "Ayush Rawat",
   roles: ["Full Stack Developer", "AI Application Engineer", "UI/UX Designer"],
-  flagshipProject: "HiMe OS â€” AI-powered intelligent operating system",
+  flagshipProject: "HiMe OS - AI-powered intelligent operating system",
   mission: "Build intelligent tools that amplify productivity and user experience",
   coreStack: ["TypeScript", "React", "Next.js", "Node.js", "Python", "OpenAI / Claude / Gemini"]
 };
@@ -82,7 +82,7 @@ const ayush: Developer = {
 
 <div align="center">
 
-#### ðŸŒŸ HiMe OS â€” Flagship Intelligent Operating System
+#### HiMe OS - Flagship Intelligent Operating System
 
 <br/>
 
@@ -90,7 +90,7 @@ const ayush: Developer = {
 
 <br/><br/>
 
-> **HiMe OS** is an AI-powered intelligent operating system built with modern web tech. Features an adaptive assistant, productivity suite, and deep AI integrations â€” reimagining the desktop experience.
+> **HiMe OS** is an AI-powered intelligent operating system built with modern web tech. Features an adaptive assistant, productivity suite, and deep AI integrations - reimagining the desktop experience.
 
 <br/>
 
@@ -106,8 +106,8 @@ const ayush: Developer = {
 
 | Project | Description | Tech Stack | Links |
 |:--------|:------------|:-----------|:------|
-| **AI Productivity Suite** | Smart summarizer, code review assistant, and transcription tool | Next.js â€¢ TypeScript â€¢ OpenAI â€¢ Firebase | [Repo](https://github.com/Ayu5h576/ai-productivity-suite) |
-| **HiMe Design System** | Accessible component library and design system powering HiMe OS | React â€¢ TypeScript â€¢ Storybook â€¢ Figma | [Repo](https://github.com/Ayu5h576/hime-design-system) |
+| **AI Productivity Suite** | Smart summarizer, code review assistant, and transcription tool | Next.js | TypeScript | OpenAI | Firebase | [Repo](https://github.com/Ayu5h576/ai-productivity-suite) |
+| **HiMe Design System** | Accessible component library and design system powering HiMe OS | React | TypeScript | Storybook | Figma | [Repo](https://github.com/Ayu5h576/hime-design-system) |
 
 ---
 
@@ -121,7 +121,7 @@ const ayush: Developer = {
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Ayu5h576&theme=tokyonight&hide_border=true&background=0d1117&stroke=0070f3&ring=00aaff&fire=00f2fe&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00aaff&border_radius=10&user_timezone=Asia/Kolkata" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Ayu5h576&theme=tokyonight&hide_border=true&background=0d1117&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
@@ -132,9 +132,9 @@ const ayush: Developer = {
 <!-- START_SECTION:focus -->
 ### What I'm Building
 
-- **HiMe OS** â€” Shipping the next major release with advanced AI agent integration and a redesigned app ecosystem
-- **AI Research** â€” Exploring multi-modal LLM capabilities and on-device inference patterns
-- **HiMe Design System** â€” Building a world-class component library with accessibility-first principles
+- **HiMe OS** - Shipping the next major release with advanced AI agent integration and a redesigned app ecosystem
+- **AI Research** - Exploring multi-modal LLM capabilities and on-device inference patterns
+- **HiMe Design System** - Building a world-class component library with accessibility-first principles
 
 ### What I'm Learning
 
@@ -157,7 +157,7 @@ const ayush: Developer = {
 ### Recent Activity
 
 <!-- START_SECTION:activity -->
-- Updated project documentation and repositories.
+- Active development on open source and AI applications.
 <!-- END_SECTION:activity -->
 
 ---
@@ -167,7 +167,7 @@ const ayush: Developer = {
 <!-- START_SECTION:repos -->
 | Repository | Description | Language | Stars | Updated |
 |:-----------|:------------|:--------:|:-----:|:-------:|
-| [hime-os](https://github.com/Ayu5h576/hime-os) | AI-powered intelligent operating system | TypeScript | â­ 0 | 2026-07-25 |
+| [hime-os](https://github.com/Ayu5h576/hime-os) | AI-powered intelligent operating system | TypeScript | 0 | 2026-07-27 |
 <!-- END_SECTION:repos -->
 
 ---
@@ -179,7 +179,7 @@ const ayush: Developer = {
 
 > *"The best way to predict the future is to invent it."*
 >
-> **â€” Alan Kay**
+> **- Alan Kay**
 
 </div>
 <!-- END_SECTION:quote -->
@@ -207,8 +207,7 @@ const ayush: Developer = {
 <br/><br/>
 
 <!-- START_SECTION:timestamp -->
-<sub>Last updated: **2026-07-26 23:19 UTC**</sub>
+<sub>Last updated: **2026-07-27 05:25 UTC**</sub>
 <!-- END_SECTION:timestamp -->
 
 </div>
-

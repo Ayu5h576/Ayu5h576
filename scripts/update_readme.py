@@ -61,7 +61,7 @@ def generate_quote_section() -> str:
     q = pick_daily(quotes)
     text = q.get("text", "")
     author = q.get("author", "")
-    return f'<div align="center">\n\n> *"{text}"*\n>\n> **— {author}**\n\n</div>'
+    return f'<div align="center">\n\n> *"{text}"*\n>\n> **- {author}**\n\n</div>'
 
 def generate_tip_section() -> str:
     tips = load_json(DATA_DIR / "tips.json")
@@ -93,7 +93,7 @@ def generate_activity_section() -> str:
             commits = payload.get("commits", [])
             if commits:
                 msg = commits[-1].get("message", "Update").split("\n")[0][:80]
-                lines.append(f"- **Push** to [`{repo}`](https://github.com/{repo}) — _{msg}_ (`{created}`)")
+                lines.append(f"- **Push** to [`{repo}`](https://github.com/{repo}) - _{msg}_ (`{created}`)")
                 count += 1
         elif etype == "CreateEvent":
             ref_type = event.get("payload", {}).get("ref_type", "repository")
@@ -114,16 +114,16 @@ def generate_activity_section() -> str:
 def generate_repos_section() -> str:
     repos = github_request(f"/users/{GITHUB_USERNAME}/repos?sort=updated&direction=desc&per_page=5&type=public")
     if not repos:
-        return "| Repository | Description | Language | Stars | Updated |\n|:---|:---|:---:|:---:|:---:|\n| [`hime-os`](https://github.com/Ayu5h576/hime-os) | AI-powered intelligent operating system | TypeScript | ⭐ 0 | 2026-07-25 |"
+        return "| Repository | Description | Language | Stars | Updated |\n|:---|:---|:---:|:---:|:---:|\n| [hime-os](https://github.com/Ayu5h576/hime-os) | AI-powered intelligent operating system | TypeScript | 0 | 2026-07-27 |"
     lines = []
     for repo in repos[:5]:
         name        = repo.get("name", "")
         description = (repo.get("description") or "No description provided").strip()[:80]
         stars       = repo.get("stargazers_count", 0)
-        language    = repo.get("language") or "—"
+        language    = repo.get("language") or "-"
         url         = repo.get("html_url", f"https://github.com/{GITHUB_USERNAME}/{name}")
         updated     = repo.get("updated_at", "")[:10]
-        lines.append(f"| [`{name}`]({url}) | {description} | {language} | ⭐ {stars} | {updated} |")
+        lines.append(f"| [{name}]({url}) | {description} | {language} | {stars} | {updated} |")
     header = "| Repository | Description | Language | Stars | Updated |\n|:-----------|:------------|:--------:|:-----:|:-------:|"
     return header + "\n" + "\n".join(lines)
 

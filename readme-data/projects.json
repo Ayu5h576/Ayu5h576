@@ -2,7 +2,7 @@
   {
     "id": "hime-os",
     "title": "HiMe OS",
-    "description": "An AI-powered intelligent operating system built with modern web technologies. Features an adaptive assistant, productivity suite, and deep AI integrations — reimagining the desktop experience.",
+    "description": "An AI-powered intelligent operating system built with modern web technologies. Features an adaptive assistant, productivity suite, and deep AI integrations - reimagining the desktop experience.",
     "status": "active",
     "featured": true,
     "technologies": [
@@ -22,7 +22,7 @@
   {
     "id": "ai-productivity-suite",
     "title": "AI Productivity Suite",
-    "description": "A collection of AI-powered tools including smart summarization, code review assistant, and transcription — built with modern APIs and a clean UI.",
+    "description": "A collection of AI-powered tools including smart summarization, code review assistant, and transcription - built with modern APIs and a clean UI.",
     "status": "active",
     "featured": true,
     "technologies": [

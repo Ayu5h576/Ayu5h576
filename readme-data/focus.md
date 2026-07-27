@@ -2,9 +2,9 @@
 
 ### What I'm Building
 
-- **HiMe OS** — Shipping the next major release with advanced AI agent integration and a redesigned app ecosystem
-- **AI Research** — Exploring multi-modal LLM capabilities and on-device inference patterns
-- **HiMe Design System** — Building a world-class component library with accessibility-first principles
+- **HiMe OS** - Shipping the next major release with advanced AI agent integration and a redesigned app ecosystem
+- **AI Research** - Exploring multi-modal LLM capabilities and on-device inference patterns
+- **HiMe Design System** - Building a world-class component library with accessibility-first principles
 
 ### What I'm Learning
 
