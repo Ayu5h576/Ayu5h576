@@ -194,9 +194,9 @@ const ayush: Developer = {
 <!-- START_SECTION:quote -->
 <div align="center">
 
-> *"The art of programming is the art of organizing complexity."*
+> *"Think twice, code once."*
 >
-> **- Edsger Dijkstra**
+> **- Unknown**
 
 </div>
 <!-- END_SECTION:quote -->
@@ -206,9 +206,9 @@ const ayush: Developer = {
 ### Daily Tip
 
 <!-- START_SECTION:tip -->
-**`TypeScript`**
+**`Performance`**
 
-> Avoid any. Use unknown instead and narrow the type explicitly — your future self will thank you.
+> Don't optimize prematurely. Profile first, then optimize the actual bottleneck.
 <!-- END_SECTION:tip -->
 
 ---
@@ -224,7 +224,7 @@ const ayush: Developer = {
 <br/><br/>
 
 <!-- START_SECTION:timestamp -->
-<sub>Last updated: **2026-07-31 14:11 UTC**</sub>
+<sub>Last updated: **2026-08-01 02:42 UTC**</sub>
 <!-- END_SECTION:timestamp -->
 
 </div>
