@@ -180,8 +180,8 @@ const ayush: Developer = {
 <!-- START_SECTION:repos -->
 | Repository | Description | Language | Stars | Updated |
 |:-----------|:------------|:--------:|:-----:|:-------:|
-| [Ayu5h576](https://github.com/Ayu5h576/Ayu5h576) | My GitHub Profile README — Auto-updated daily with GitHub Actions | JavaScript | 0 | 2026-07-31 |
-| [HiMe-OS](https://github.com/Ayu5h576/HiMe-OS) | No description provided | TypeScript | 0 | 2026-07-29 |
+| [HiMe-OS](https://github.com/Ayu5h576/HiMe-OS) | No description provided | TypeScript | 0 | 2026-08-01 |
+| [Ayu5h576](https://github.com/Ayu5h576/Ayu5h576) | My GitHub Profile README — Auto-updated daily with GitHub Actions | JavaScript | 0 | 2026-08-01 |
 | [ndb-core](https://github.com/Ayu5h576/ndb-core) | Easy-to-use case management web app for NGOs anywhere in the world (Progressive  | TypeScript | 0 | 2026-06-10 |
 | [CutMyLoan](https://github.com/Ayu5h576/CutMyLoan) | No description provided | HTML | 0 | 2026-06-04 |
 | [StudyNotion-Mega-Project](https://github.com/Ayu5h576/StudyNotion-Mega-Project) | StudyNotion is a versatile and intuitive ed-tech platform that enables users to  | - | 0 | 2026-05-22 |
@@ -194,9 +194,9 @@ const ayush: Developer = {
 <!-- START_SECTION:quote -->
 <div align="center">
 
-> *"Think twice, code once."*
+> *"Build things that matter."*
 >
-> **- Unknown**
+> **- Ayush Rawat**
 
 </div>
 <!-- END_SECTION:quote -->
@@ -206,9 +206,9 @@ const ayush: Developer = {
 ### Daily Tip
 
 <!-- START_SECTION:tip -->
-**`Performance`**
+**`React`**
 
-> Don't optimize prematurely. Profile first, then optimize the actual bottleneck.
+> Keep components small and focused. If a component does more than one thing, split it.
 <!-- END_SECTION:tip -->
 
 ---
@@ -224,7 +224,7 @@ const ayush: Developer = {
 <br/><br/>
 
 <!-- START_SECTION:timestamp -->
-<sub>Last updated: **2026-08-01 02:42 UTC**</sub>
+<sub>Last updated: **2026-08-02 02:42 UTC**</sub>
 <!-- END_SECTION:timestamp -->
 
 </div>
