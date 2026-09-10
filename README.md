@@ -184,7 +184,7 @@ const ayush: Developer = {
 <!-- START_SECTION:repos -->
 | Repository | Description | Language | Stars | Updated |
 |:-----------|:------------|:--------:|:-----:|:-------:|
-| [Ayu5h576](https://github.com/Ayu5h576/Ayu5h576) | My GitHub Profile README — Auto-updated daily with GitHub Actions | JavaScript | 0 | 2026-09-08 |
+| [Ayu5h576](https://github.com/Ayu5h576/Ayu5h576) | My GitHub Profile README — Auto-updated daily with GitHub Actions | JavaScript | 0 | 2026-09-09 |
 | [OpenBook](https://github.com/Ayu5h576/OpenBook) | No description provided | TypeScript | 0 | 2026-09-07 |
 | [HiMe-OS](https://github.com/Ayu5h576/HiMe-OS) | No description provided | TypeScript | 0 | 2026-08-02 |
 | [ndb-core](https://github.com/Ayu5h576/ndb-core) | Easy-to-use case management web app for NGOs anywhere in the world (Progressive  | TypeScript | 0 | 2026-06-10 |
@@ -198,9 +198,9 @@ const ayush: Developer = {
 <!-- START_SECTION:quote -->
 <div align="center">
 
-> *"Code is like humor. When you have to explain it, it's bad."*
+> *"Talk is cheap. Show me the code."*
 >
-> **- Cory House**
+> **- Linus Torvalds**
 
 </div>
 <!-- END_SECTION:quote -->
@@ -210,9 +210,9 @@ const ayush: Developer = {
 ### Daily Tip
 
 <!-- START_SECTION:tip -->
-**`TypeScript`**
+**`Performance`**
 
-> Avoid any. Use unknown instead and narrow the type explicitly — your future self will thank you.
+> Don't optimize prematurely. Profile first, then optimize the actual bottleneck.
 <!-- END_SECTION:tip -->
 
 ---
@@ -228,7 +228,7 @@ const ayush: Developer = {
 <br/><br/>
 
 <!-- START_SECTION:timestamp -->
-<sub>Last updated: **2026-09-09 02:15 UTC**</sub>
+<sub>Last updated: **2026-09-10 02:13 UTC**</sub>
 <!-- END_SECTION:timestamp -->
 
 </div>
