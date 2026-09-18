@@ -184,7 +184,7 @@ const ayush: Developer = {
 <!-- START_SECTION:repos -->
 | Repository | Description | Language | Stars | Updated |
 |:-----------|:------------|:--------:|:-----:|:-------:|
-| [Ayu5h576](https://github.com/Ayu5h576/Ayu5h576) | My GitHub Profile README — Auto-updated daily with GitHub Actions | JavaScript | 0 | 2026-09-16 |
+| [Ayu5h576](https://github.com/Ayu5h576/Ayu5h576) | My GitHub Profile README — Auto-updated daily with GitHub Actions | JavaScript | 0 | 2026-09-17 |
 | [OpenBook](https://github.com/Ayu5h576/OpenBook) | No description provided | TypeScript | 0 | 2026-09-14 |
 | [HiMe-OS](https://github.com/Ayu5h576/HiMe-OS) | No description provided | TypeScript | 0 | 2026-08-02 |
 | [ndb-core](https://github.com/Ayu5h576/ndb-core) | Easy-to-use case management web app for NGOs anywhere in the world (Progressive  | TypeScript | 0 | 2026-06-10 |
@@ -198,9 +198,9 @@ const ayush: Developer = {
 <!-- START_SECTION:quote -->
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."*
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
 >
-> **- John Johnson**
+> **- Martin Fowler**
 
 </div>
 <!-- END_SECTION:quote -->
@@ -210,9 +210,9 @@ const ayush: Developer = {
 ### Daily Tip
 
 <!-- START_SECTION:tip -->
-**`Clean Code`**
+**`Git`**
 
-> Name your variables for what they represent, not what they hold. userAge beats data every time.
+> Commit often with meaningful messages. Describe the why, not just the what.
 <!-- END_SECTION:tip -->
 
 ---
@@ -228,7 +228,7 @@ const ayush: Developer = {
 <br/><br/>
 
 <!-- START_SECTION:timestamp -->
-<sub>Last updated: **2026-09-17 02:33 UTC**</sub>
+<sub>Last updated: **2026-09-18 02:19 UTC**</sub>
 <!-- END_SECTION:timestamp -->
 
 </div>
