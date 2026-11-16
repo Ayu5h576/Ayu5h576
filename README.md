@@ -194,9 +194,9 @@ const ayush: Developer = {
 <!-- START_SECTION:quote -->
 <div align="center">
 
-> *"The art of programming is the art of organizing complexity."*
+> *"First, solve the problem. Then, write the code."*
 >
-> **- Edsger Dijkstra**
+> **- John Johnson**
 
 </div>
 <!-- END_SECTION:quote -->
@@ -206,9 +206,9 @@ const ayush: Developer = {
 ### Daily Tip
 
 <!-- START_SECTION:tip -->
-**`CSS`**
+**`Clean Code`**
 
-> Use CSS custom properties for design tokens to maintain visual consistency.
+> Name your variables for what they represent, not what they hold. userAge beats data every time.
 <!-- END_SECTION:tip -->
 
 ---
@@ -224,7 +224,7 @@ const ayush: Developer = {
 <br/><br/>
 
 <!-- START_SECTION:timestamp -->
-<sub>Last updated: **2026-11-13 04:14 UTC**</sub>
+<sub>Last updated: **2026-11-16 03:56 UTC**</sub>
 <!-- END_SECTION:timestamp -->
 
 </div>
