@@ -194,9 +194,9 @@ const ayush: Developer = {
 <!-- START_SECTION:quote -->
 <div align="center">
 
-> *"Programs must be written for people to read, and only incidentally for machines to execute."*
+> *"The best way to predict the future is to invent it."*
 >
-> **- Harold Abelson**
+> **- Alan Kay**
 
 </div>
 <!-- END_SECTION:quote -->
@@ -206,9 +206,9 @@ const ayush: Developer = {
 ### Daily Tip
 
 <!-- START_SECTION:tip -->
-**`TypeScript`**
+**`Performance`**
 
-> Avoid any. Use unknown instead and narrow the type explicitly — your future self will thank you.
+> Don't optimize prematurely. Profile first, then optimize the actual bottleneck.
 <!-- END_SECTION:tip -->
 
 ---
@@ -224,7 +224,7 @@ const ayush: Developer = {
 <br/><br/>
 
 <!-- START_SECTION:timestamp -->
-<sub>Last updated: **2026-11-18 05:15 UTC**</sub>
+<sub>Last updated: **2026-11-19 05:09 UTC**</sub>
 <!-- END_SECTION:timestamp -->
 
 </div>
