@@ -194,9 +194,9 @@ const ayush: Developer = {
 <!-- START_SECTION:quote -->
 <div align="center">
 
-> *"The best way to predict the future is to invent it."*
+> *"Simplicity is the soul of efficiency."*
 >
-> **- Alan Kay**
+> **- Austin Freeman**
 
 </div>
 <!-- END_SECTION:quote -->
@@ -206,9 +206,9 @@ const ayush: Developer = {
 ### Daily Tip
 
 <!-- START_SECTION:tip -->
-**`Performance`**
+**`React`**
 
-> Don't optimize prematurely. Profile first, then optimize the actual bottleneck.
+> Keep components small and focused. If a component does more than one thing, split it.
 <!-- END_SECTION:tip -->
 
 ---
@@ -224,7 +224,7 @@ const ayush: Developer = {
 <br/><br/>
 
 <!-- START_SECTION:timestamp -->
-<sub>Last updated: **2026-11-19 05:09 UTC**</sub>
+<sub>Last updated: **2026-11-20 04:57 UTC**</sub>
 <!-- END_SECTION:timestamp -->
 
 </div>
