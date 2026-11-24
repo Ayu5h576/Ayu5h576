@@ -194,9 +194,9 @@ const ayush: Developer = {
 <!-- START_SECTION:quote -->
 <div align="center">
 
-> *"Code is like humor. When you have to explain it, it's bad."*
+> *"Talk is cheap. Show me the code."*
 >
-> **- Cory House**
+> **- Linus Torvalds**
 
 </div>
 <!-- END_SECTION:quote -->
@@ -206,9 +206,9 @@ const ayush: Developer = {
 ### Daily Tip
 
 <!-- START_SECTION:tip -->
-**`CSS`**
+**`AI Engineering`**
 
-> Use CSS custom properties for design tokens to maintain visual consistency.
+> When prompting LLMs, specify output schemas explicitly for consistent JSON parsing.
 <!-- END_SECTION:tip -->
 
 ---
@@ -224,7 +224,7 @@ const ayush: Developer = {
 <br/><br/>
 
 <!-- START_SECTION:timestamp -->
-<sub>Last updated: **2026-11-23 04:52 UTC**</sub>
+<sub>Last updated: **2026-11-24 07:41 UTC**</sub>
 <!-- END_SECTION:timestamp -->
 
 </div>
