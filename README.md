@@ -194,9 +194,9 @@ const ayush: Developer = {
 <!-- START_SECTION:quote -->
 <div align="center">
 
-> *"Talk is cheap. Show me the code."*
+> *"It is not enough to be a good programmer. You must also communicate well."*
 >
-> **- Linus Torvalds**
+> **- Donald Knuth**
 
 </div>
 <!-- END_SECTION:quote -->
@@ -206,9 +206,9 @@ const ayush: Developer = {
 ### Daily Tip
 
 <!-- START_SECTION:tip -->
-**`AI Engineering`**
+**`System Design`**
 
-> When prompting LLMs, specify output schemas explicitly for consistent JSON parsing.
+> Design for failure. Assume external services will fail and implement graceful degradation.
 <!-- END_SECTION:tip -->
 
 ---
@@ -224,7 +224,7 @@ const ayush: Developer = {
 <br/><br/>
 
 <!-- START_SECTION:timestamp -->
-<sub>Last updated: **2026-11-24 07:41 UTC**</sub>
+<sub>Last updated: **2026-11-25 06:12 UTC**</sub>
 <!-- END_SECTION:timestamp -->
 
 </div>
