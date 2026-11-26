@@ -194,9 +194,9 @@ const ayush: Developer = {
 <!-- START_SECTION:quote -->
 <div align="center">
 
-> *"It is not enough to be a good programmer. You must also communicate well."*
+> *"Every great developer you know got there by solving problems they were unqualified to solve until they did it."*
 >
-> **- Donald Knuth**
+> **- Patrick McKenzie**
 
 </div>
 <!-- END_SECTION:quote -->
@@ -206,9 +206,9 @@ const ayush: Developer = {
 ### Daily Tip
 
 <!-- START_SECTION:tip -->
-**`System Design`**
+**`Clean Code`**
 
-> Design for failure. Assume external services will fail and implement graceful degradation.
+> Name your variables for what they represent, not what they hold. userAge beats data every time.
 <!-- END_SECTION:tip -->
 
 ---
@@ -224,7 +224,7 @@ const ayush: Developer = {
 <br/><br/>
 
 <!-- START_SECTION:timestamp -->
-<sub>Last updated: **2026-11-25 06:12 UTC**</sub>
+<sub>Last updated: **2026-11-26 06:03 UTC**</sub>
 <!-- END_SECTION:timestamp -->
 
 </div>
