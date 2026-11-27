@@ -194,9 +194,9 @@ const ayush: Developer = {
 <!-- START_SECTION:quote -->
 <div align="center">
 
-> *"Every great developer you know got there by solving problems they were unqualified to solve until they did it."*
+> *"Software is eating the world."*
 >
-> **- Patrick McKenzie**
+> **- Marc Andreessen**
 
 </div>
 <!-- END_SECTION:quote -->
@@ -206,9 +206,9 @@ const ayush: Developer = {
 ### Daily Tip
 
 <!-- START_SECTION:tip -->
-**`Clean Code`**
+**`Git`**
 
-> Name your variables for what they represent, not what they hold. userAge beats data every time.
+> Commit often with meaningful messages. Describe the why, not just the what.
 <!-- END_SECTION:tip -->
 
 ---
@@ -224,7 +224,7 @@ const ayush: Developer = {
 <br/><br/>
 
 <!-- START_SECTION:timestamp -->
-<sub>Last updated: **2026-11-26 06:03 UTC**</sub>
+<sub>Last updated: **2026-11-27 05:55 UTC**</sub>
 <!-- END_SECTION:timestamp -->
 
 </div>
